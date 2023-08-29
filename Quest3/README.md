@@ -1,6 +1,6 @@
 # AIFFEL Socar Campus Code Peer Review Templete
 
-코더 : [신지혜]
+코더 : [허지은]
 
 리뷰어 : [리뷰어]
 
